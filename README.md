@@ -1,2 +1,2 @@
-# bibjan
+# TownyBot
 elo
